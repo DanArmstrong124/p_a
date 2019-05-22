@@ -18,3 +18,5 @@ This websites purpose is to allow the user/client to find out about me and what 
 - If I wanted to see Paul's past career and/or current skills, I would go to Resume.
 
 ## External References
+
+- Web Development by [DanCodes.co.uk](https://www.DanCodes.co.uk)
