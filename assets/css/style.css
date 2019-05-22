@@ -508,3 +508,14 @@ div#map {
 #404background {
     background-color: black;
 }
+
+.web-ads a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+#webadsimg {
+    width: 100px;
+    height: 100px;
+}
